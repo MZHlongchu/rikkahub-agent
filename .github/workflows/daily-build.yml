@@ -1,1 +1,112 @@
-bmFtZTogRGFpbHkgQnVpbGQKCm9uOgogICMg5q+P5aSpIFVUQyAxODowMCDop6blj5HvvIjljJfkuqzml7bpl7TmrKHml6UgMDI6MDDvvInvvIzlj6/mjInpnIDkv67mlLkKICBzY2hlZHVsZToKICAgIC0gY3JvbjogJzAgMTggKiAqIConCiAgIyDkuZ/mlK/mjIHmiYvliqjop6blj5EKICB3b3JrZmxvd19kaXNwYXRjaDoKCmpvYnM6CiAgIyDmo4Dmn6Xov4fljrsgMjQg5bCP5pe25YaF5piv5ZCm5pyJ5paw5o+Q5Lqk77yM5rKh5pyJ5YiZ6Lez6L+H5p6E5bu677yM6YG/5YWN6YeN5aSN5omT5YyFCiAgY2hlY2s6CiAgICBydW5zLW9uOiB1YnVudHUtbGF0ZXN0CiAgICBvdXRwdXRzOgogICAgICBzaG91bGRfYnVpbGQ6ICR7eyBzdGVwcy5jaGVjay5vdXRwdXRzLnNob3VsZF9idWlsZCB9fQogICAgc3RlcHM6CiAgICAgIC0gdXNlczogYWN0aW9ucy9jaGVja291dEB2NAogICAgICAtIG5hbWU6IENoZWNrIGZvciByZWNlbnQgY29tbWl0cwogICAgICAgIGlkOiBjaGVjawogICAgICAgIHJ1bjogfAogICAgICAgICAgIyDmiYvliqjop6blj5Hml7bml6DmnaHku7bmnoTlu7oKICAgICAgICAgIGlmIFsgIiR7eyBnaXRodWIuZXZlbnRfbmFtZSB9fSIgPSAid29ya2Zsb3dfZGlzcGF0Y2giIF07IHRoZW4KICAgICAgICAgICAgZWNobyAic2hvdWxkX2J1aWxkPXRydWUiID4+ICIkR0lUSFVCX09VVFBVVCIKICAgICAgICAgICAgZXhpdCAwCiAgICAgICAgICBmaQogICAgICAgICAgIyDlrprml7bop6blj5HvvJrku4XlvZPov4fljrsgMjQg5bCP5pe25YaF5pyJ5paw5o+Q5Lqk5omN5p6E5bu6CiAgICAgICAgICBpZiBbIC1uICIkKGdpdCBsb2cgLS1zaW5jZT0nMjQgaG91cnMgYWdvJyAtLW9uZWxpbmUpIiBdOyB0aGVuCiAgICAgICAgICAgIGVjaG8gInNob3VsZF9idWlsZD10cnVlIiA+PiAiJEdJVEhVQl9PVVRQVVQiCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIGVjaG8gInNob3VsZF9idWlsZD1mYWxzZSIgPj4gIiRHSVRIVUJfT1VUUFVUIgogICAgICAgICAgICBlY2hvICLov4fljrsgMjQg5bCP5pe25peg5paw5o+Q5Lqk77yM6Lez6L+H5p6E5bu6IgogICAgICAgICAgZmkKCiAgYnVpbGQ6CiAgICBuZWVkczogY2hlY2sKICAgIGlmOiBuZWVkcy5jaGVjay5vdXRwdXRzLnNob3VsZF9idWlsZCA9PSAndHJ1ZScKICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHBlcm1pc3Npb25zOgogICAgICBjb250ZW50czogd3JpdGUgICAjIOWPkeW4gyBSZWxlYXNlIOmcgOimgeWGmeadg+mZkAoKICAgIHN0ZXBzOgogICAgICAtIHVzZXM6IGFjdGlvbnMvY2hlY2tvdXRAdjQKICAgICAgICB3aXRoOgogICAgICAgICAgZmV0Y2gtZGVwdGg6IDAKICAgICAgICAgIHN1Ym1vZHVsZXM6IHJlY3Vyc2l2ZSAjIOaLieWPluWtkOaooeWdlwoKICAgICAgLSBuYW1lOiBTZXQgdXAgSkRLCiAgICAgICAgdXNlczogYWN0aW9ucy9zZXR1cC1qYXZhQHY0CiAgICAgICAgd2l0aDoKICAgICAgICAgIGRpc3RyaWJ1dGlvbjogJ3RlbXVyaW4nCiAgICAgICAgICBqYXZhLXZlcnNpb246ICcxNycKCiAgICAgICMgd2ViIOaooeWdl+eahCBHcmFkbGUg5Lu75Yqh5Lya5omn6KGMIGBidW4gaW5zdGFsbGDvvIzpmo/lkI7ku6UgYHBucG0gcnVuIGJ1aWxkYCDmnoTlu7rliY3nq6/jgIIKICAgICAgLSBuYW1lOiBTZXQgdXAgQnVuCiAgICAgICAgdXNlczogb3Zlbi1zaC9zZXR1cC1idW5AdjIKICAgICAgICB3aXRoOgogICAgICAgICAgYnVuLXZlcnNpb246IGxhdGVzdAoKICAgICAgLSBuYW1lOiBTZXQgdXAgcG5wbQogICAgICAgIHVzZXM6IHBucG0vYWN0aW9uLXNldHVwQHY0CiAgICAgICAgd2l0aDoKICAgICAgICAgIHZlcnNpb246IDExCgogICAgICAtIG5hbWU6IFNldCB1cCBOb2RlCiAgICAgICAgdXNlczogYWN0aW9ucy9zZXR1cC1ub2RlQHY0CiAgICAgICAgd2l0aDoKICAgICAgICAgIG5vZGUtdmVyc2lvbjogMjIKICAgICAgICAgIGNhY2hlOiBwbnBtCiAgICAgICAgICBjYWNoZS1kZXBlbmRlbmN5LXBhdGg6IHdlYi11aS9wbnBtLWxvY2sueWFtbAoKICAgICAgIyBncmFkbGUg55qEIGJ1aWxkV2ViVWkg5Lu75Yqh5Y+q6LeRIGJ1aWxkIOS4jei3kSBpbnN0YWxs77yM6ZyA5Zyo5q2k5o+Q5YmN5a6J6KOF5L6d6LWWCiAgICAgIC0gbmFtZTogSW5zdGFsbCB3ZWItdWkgZGVwZW5kZW5jaWVzCiAgICAgICAgd29ya2luZy1kaXJlY3Rvcnk6IHdlYi11aQogICAgICAgIHJ1bjogcG5wbSBpbnN0YWxsIC0tZnJvemVuLWxvY2tmaWxlCgogICAgICAtIG5hbWU6IEdyYWRsZSBjYWNoZQogICAgICAgIHVzZXM6IGFjdGlvbnMvY2FjaGVAdjQKICAgICAgICB3aXRoOgogICAgICAgICAgcGF0aDogfAogICAgICAgICAgICB+Ly5ncmFkbGUvY2FjaGVzCiAgICAgICAgICAgIH4vLmdyYWRsZS93cmFwcGVyCiAgICAgICAgICBrZXk6ICR7eyBydW5uZXIub3MgfX0tZ3JhZGxlLSR7eyBoYXNoRmlsZXMoJyoqLyouZ3JhZGxlKicsICcqKi9ncmFkbGUtd3JhcHBlci5wcm9wZXJ0aWVzJykgfX0KCiAgICAgIC0gbmFtZTogUHJlcGFyZSBidWlsZCBmaWxlcwogICAgICAgIHJ1bjogfAogICAgICAgICAgIyDop6PnoIFiYXNlNjTnvJbnoIHnmoRrZXlzdG9yZeaWh+S7tgogICAgICAgICAgZWNobyAiJHt7IHNlY3JldHMuS0VZX0JBU0U2NCB9fSIgfCBiYXNlNjQgLWQgPiBhcHAvYXBwLmtleQoKICAgICAgICAgICMg5YaZ5YWl562+5ZCN6YWN572u5YiwbG9jYWwucHJvcGVydGllcwogICAgICAgICAgZWNobyAiJHt7IHNlY3JldHMuU0lHTklOR19DT05GSUcgfX0iID4gbG9jYWwucHJvcGVydGllcwoKICAgICAgICAgICMg5YaZ5YWlR29vZ2xlIFNlcnZpY2Vz6YWN572uCiAgICAgICAgICBlY2hvICcke3sgc2VjcmV0cy5HT09HTEVfU0VSVklDRVNfSlNPTiB9fScgPiBhcHAvZ29vZ2xlLXNlcnZpY2VzLmpzb24KCiAgICAgIC0gbmFtZTogR3JhZGxlIEJ1aWxkCiAgICAgICAgcnVuOiB8CiAgICAgICAgICBjaG1vZCAreCBncmFkbGV3CiAgICAgICAgICAuL2dyYWRsZXcgYXNzZW1ibGVSZWxlYXNlCgogICAgICAjIOaKiiBBUEsg55u05o6l5Y+R5biD5Li6IFByZXJlbGVhc2XvvIznlKjmiLfngrnpk77mjqXljbPlj6/kuIvovb3ljZXkuKogYXBr77yM5peg6ZyA55m75b2V44CB5peg6ZyA6Kej5Y6LCiAgICAgIC0gbmFtZTogUHVibGlzaCBuaWdodGx5IHByZXJlbGVhc2UKICAgICAgICB1c2VzOiBzb2Z0cHJvcHMvYWN0aW9uLWdoLXJlbGVhc2VAdjIKICAgICAgICBpZjogc3VjY2VzcygpCiAgICAgICAgd2l0aDoKICAgICAgICAgIHRhZ19uYW1lOiBuaWdodGx5ICAgICAgICAgICAgIyDlm7rlrpogdGFn77yM5q+P5pma6KaG55uW5ZCM5LiA5Liq44CM5pyA5paw5q+P5pel5p6E5bu644CNCiAgICAgICAgICBuYW1lOiBOaWdodGx5IEJ1aWxkCiAgICAgICAgICBwcmVyZWxlYXNlOiB0cnVlCiAgICAgICAgICBib2R5OiB8CiAgICAgICAgICAgIOiHquWKqOavj+aXpeaehOW7uu+8iGNvbW1pdCBgJHt7IGdpdGh1Yi5zaGEgfX1g77yJCgogICAgICAgICAgICA+IOKaoO+4jyDlvIDlj5HniYjmnKzvvIzlj6/og73kuI3nqLPlrprvvIzku4XkvpvmtYvor5XjgIIKICAgICAgICAgIGZpbGVzOiBhcHAvYnVpbGQvb3V0cHV0cy9hcGsvcmVsZWFzZS8qLmFwawo=
+name: Daily Build
+
+on:
+  # 每天 UTC 18:00 触发（北京时间次日 02:00），可按需修改
+  schedule:
+    - cron: '0 18 * * *'
+  # 也支持手动触发
+  workflow_dispatch:
+
+jobs:
+  # 检查过去 24 小时内是否有新提交，没有则跳过构建，避免重复打包
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      should_build: ${{ steps.check.outputs.should_build }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for recent commits
+        id: check
+        run: |
+          # 手动触发时无条件构建
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "should_build=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          # 定时触发：仅当过去 24 小时内有新提交才构建
+          if [ -n "$(git log --since='24 hours ago' --oneline)" ]; then
+            echo "should_build=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_build=false" >> "$GITHUB_OUTPUT"
+            echo "过去 24 小时无新提交，跳过构建"
+          fi
+
+  build:
+    needs: check
+    if: needs.check.outputs.should_build == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 发布 Release 需要写权限
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: recursive # 拉取子模块
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      # web 模块的 Gradle 任务会执行 `bun install`，随后以 `pnpm run build` 构建前端。
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: web-ui/pnpm-lock.yaml
+
+      # gradle 的 buildWebUi 任务只跑 build 不跑 install，需在此提前安装依赖
+      - name: Install web-ui dependencies
+        working-directory: web-ui
+        run: pnpm install --frozen-lockfile
+
+      - name: Gradle cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*', '**/gradle-wrapper.properties') }}
+
+      - name: Prepare build files
+        run: |
+          # 解码base64编码的keystore文件
+          echo "${{ secrets.KEY_BASE64 }}" | base64 -d > app/app.key
+
+          # 写入签名配置到local.properties
+          echo "${{ secrets.SIGNING_CONFIG }}" > local.properties
+
+          # 写入Google Services配置
+          echo '${{ secrets.GOOGLE_SERVICES_JSON }}' > app/google-services.json
+
+      - name: Gradle Build
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleRelease
+
+      # 把 APK 直接发布为 Prerelease，用户点链接即可下载单个 apk，无需登录、无需解压
+      - name: Publish nightly prerelease
+        uses: softprops/action-gh-release@v2
+        if: success()
+        with:
+          tag_name: nightly            # 固定 tag，每晚覆盖同一个「最新每日构建」
+          name: Nightly Build
+          prerelease: true
+          body: |
+            自动每日构建（commit `${{ github.sha }}`）
+
+            > ⚠️ 开发版本，可能不稳定，仅供测试。
+          files: app/build/outputs/apk/release/*.apk
